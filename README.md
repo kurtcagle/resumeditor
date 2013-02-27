@@ -26,3 +26,8 @@ Currently supported interfaces include
   /resume/education?id=_identifier_;face=xml GET - Retrieves just the education information for the given resume.
 
   /resume/projects?id=_identifier_;face=xml GET - Retrieves just the projects (jobs) information for the given resume.````
+
+Note that the semicolon and ampersand can be used interchangeably for parameters. 
+
+Please note as well that there is a second application uploaded with this - the planetoids SVG/JavaScript game that
+I developed for HTML5 Web Graphics with SVG and CSS for O'Reilly Media. This can be retrieved and played at http://prototype.eccnet.com:8011/lib/sandbox/game.svg
