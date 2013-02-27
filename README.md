@@ -18,5 +18,3 @@ Currently supported interfaces include
 /resume/bio?id=_identifier_;face=xml GET - Retrieves just the biography information for the given resume.
 /resume/education?id=_identifier_;face=xml GET - Retrieves just the education information for the given resume.
 /resume/projects?id=_identifier_;face=xml GET - Retrieves just the projects (jobs) information for the given resume.
-
-
