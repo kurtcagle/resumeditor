@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume id="KurtCagleResume1" xmlns:app="http://metaphoricalweb.com/xmlns/app" xmlns="http://metaphoricalweb.com/xmlns/resume">
+    <resumeLabel>Information Architect Resume</resumeLabel>
+    <userName>kurt.cagle@gmail.com</userName>
+    <statement>Seeking a position as an information architect, enterprise data modeler (ER, XSD and OWL), ontologist, solutions architect (primarily specializing in NoSQL, SOA and RESTful system architectures) or senior web services engineer. </statement>
+    <bio>
+        <personName>
+            <givenName>Kurt</givenName>
+            <surName>Cagle</surName>
+            <middleNames>Alan</middleNames>
+            <presentationName>Kurt Cagle</presentationName>
+        </personName>
+        <contactInfo>
+            <currentAddress>
+                <street>150 NE Crescent Dr.</street>
+                <city>Issaquah</city>
+                <stateProvince>WA</stateProvince>
+                <postalCode>98027</postalCode>
+                <country>USA</country>
+            </currentAddress>
+            <emailSet>
+                <email>
+                    <emailAddress>kurt.cagle@gmail.com</emailAddress>
+                    <emailType>primary</emailType>
+                </email>
+                <email>
+                    <emailAddress>caglek@avalonconsult.com</emailAddress>
+                    <emailType>work</emailType>
+                </email>
+            </emailSet>
+            <phoneSet>
+                <phone>
+                    <phoneNumber>443-837-8725</phoneNumber>
+                    <phoneType>mobile</phoneType>
+                </phone>
+                <phone>
+                    <phoneNumber>425-270-3264</phoneNumber>
+                    <phoneType>home</phoneType>
+                </phone>
+
+            </phoneSet>
+        </contactInfo>
+        <education>
+            <institution>
+                <institutionLabel>Richwoods High School</institutionLabel>
+                <institutionType>High_School</institutionType>
+                <institutionInterval>
+                    <institutionDateStart>1977-09-01</institutionDateStart>
+                    <institutionDateEnd>1981-06-01</institutionDateEnd>
+                </institutionInterval>
+                <courseOfStudy>College Prep</courseOfStudy>
+                <institutionLocation>
+                    <city>Peoria</city>
+                    <stateProvince>IL</stateProvince>
+                    <country>USA</country>
+                </institutionLocation>
+                <certificate>H.S. Diploma</certificate>
+            </institution>
+            <institution>
+                <institutionLabel>University of Illinois, Urbana-Champaign</institutionLabel>
+                <institutionType>University</institutionType>
+                <institutionInterval>
+                    <institutionDateStart>1981-09-01</institutionDateStart>
+                    <institutionDateEnd>1985-06-01</institutionDateEnd>
+                </institutionInterval>
+                <courseOfStudy>Physics</courseOfStudy>
+                <certificate>Bachelor of Science Degree</certificate>
+                <institutionLocation>
+                    <city>Urbana</city>
+                    <stateProvince>IL</stateProvince>
+                    <country>USA</country>
+                </institutionLocation>
+            </institution>
+        </education>
+    </bio>
+    <proficiencySets>
+        <proficiencySet id="Industry">
+            <label>Industry Proficiencies</label>
+            <proficiency id="Communications">
+                <label>Communications</label>
+                <description>Communications</description>
+            </proficiency>
+            <proficiency id="Traditional_Publishing">
+                <label>Traditional Publishing</label>
+                <description>Traditional Publishing</description>
+            </proficiency>
+            <proficiency id="ePublishing_and_Mobile">
+                <label>ePublishing and Mobile</label>
+                <description>ePublishing and Mobile</description>
+            </proficiency>
+            <proficiency id="NoSQL_Data_Systems">
+                <label>NoSQL Data Systems</label>
+                <description>NoSQL Data Systems</description>
+            </proficiency>
+            <proficiency id="Government">
+                <label>Government</label>
+                <description>Government</description>
+            </proficiency>
+            <proficiency id="Health_Care">
+                <label>Health Care</label>
+                <description>Health Care</description>
+            </proficiency>
+            <proficiency id="Insurance">
+                <label>Insurance</label>
+                <description>Insurance</description>
+            </proficiency>
+            <proficiency id="Archival_Systems">
+                <label>Archival Systems</label>
+                <description>Archival Systems</description>
+            </proficiency>
+            <proficiency id="Game_Developmemt">
+                <label>Game Developmemt</label>
+                <description>Game Developmemt</description>
+            </proficiency>
+            <proficiency id="Accounting">
+                <label>Accounting</label>
+                <description>Accounting</description>
+            </proficiency>
+            <proficiency id="CRM">
+                <label>CRM</label>
+                <description>CRM</description>
+            </proficiency>
+            <proficiency id="Management">
+                <label>Management</label>
+                <description>Management</description>
+            </proficiency>
+        </proficiencySet>
+        <proficiencySet id="Management">
+            <label>Management</label>
+            <proficiency id="Data_Architecture">
+                <label>Data Architecture</label>
+                <description>Data Architecture</description>
+            </proficiency>
+            <proficiency id="UML_Data_Modeling">
+                <label>UML Data Modeling</label>
+                <description>UML Data Modeling</description>
+            </proficiency>
+            <proficiency id="Ontological_Modeling">
+                <label>Ontological Modeling</label>
+                <description>Ontological Modeling</description>
+            </proficiency>
+            <proficiency id="Systems_Architecture">
+                <label>Systems Architecture</label>
+                <description>Systems Architecture</description>
+            </proficiency>
+            <proficiency id="Agile_Practices">
+                <label>Agile Practices</label>
+                <description>Agile Practices</description>
+            </proficiency>
+            <proficiency id="Technical_Training">
+                <label>Technical Training</label>
+                <description>Technical Training</description>
+            </proficiency>
+            <proficiency id="Project_Management">
+                <label>Project Management</label>
+                <description>Project Management</description>
+            </proficiency>
+            <proficiency id="Anaytics_and_Reporting">
+                <label>Analytics and Reporting</label>
+                <description>Project Management</description>
+            </proficiency>
+            <proficiency id="Entity_Extraction">
+                <label>Entity Extraction</label>
+                <description>Entity Extraction</description>
+            </proficiency>
+        </proficiencySet>
+        <proficiencySet id="W3C_Skills">
+            <label>W3C Skills</label>
+            <proficiency id="RDF_OWL">
+                <label>RDF/OWL</label>
+                <description>RDF/OWL</description>
+            </proficiency>
+            <proficiency id="SPARQL">
+                <label>SPARQL</label>
+                <description>SPARQL</description>
+            </proficiency>
+            <proficiency id="Linked_Data/">
+                <label>Linked Data/</label>
+                <description>Linked Data/</description>
+            </proficiency>
+            <proficiency id="XQuery">
+                <label>XQuery</label>
+                <description>XQuery</description>
+            </proficiency>
+            <proficiency id="XML_Schema">
+                <label>XML Schema</label>
+                <description>XML Schema</description>
+            </proficiency>
+            <proficiency id="Schematron">
+                <label>Schematron</label>
+                <description>Schematron</description>
+            </proficiency>
+            <proficiency id="MarkLogic">
+                <label>MarkLogic</label>
+                <description>MarkLogic</description>
+            </proficiency>
+            <proficiency id="eXist_db">
+                <label>eXist-db</label>
+                <description>eXist-db</description>
+            </proficiency>
+            <proficiency id="EMC_Documentum">
+                <label>EMC Documentum</label>
+                <description>EMC Documentum</description>
+            </proficiency>
+            <proficiency id="XForms">
+                <label>XForms</label>
+                <description>XForms</description>
+            </proficiency>
+            <proficiency id="Xproc">
+                <label>Xproc</label>
+                <description>Xproc</description>
+            </proficiency>
+            <proficiency id="XSLT">
+                <label>XSLT</label>
+                <description>XSLT</description>
+            </proficiency>
+            <proficiency id="XSL_FO">
+                <label>XSL-FO</label>
+                <description>XSL-FO</description>
+            </proficiency>
+            <proficiency id="SVG">
+                <label>SVG</label>
+                <description>SVG</description>
+            </proficiency>
+        </proficiencySet>
+        <proficiencySet id="programming">
+            <label>Programing Languages</label>
+            <proficiency id="JavaScript">
+                <label>JavaScript</label>
+                <description>JavaScript</description>
+            </proficiency>
+            <proficiency id="NodeJS">
+                <label>NodeJS</label>
+                <description>NodeJS</description>
+            </proficiency>
+            <proficiency id="HTML5">
+                <label>HTML5</label>
+                <description>HTML5</description>
+            </proficiency>
+            <proficiency id="jQuery">
+                <label>jQuery</label>
+                <description>jQuery</description>
+            </proficiency>
+            <proficiency id="Drupal">
+                <label>Drupal</label>
+                <description>Drupal</description>
+            </proficiency>
+            <proficiency id="Hadoop">
+                <label>Hadoop and Map/Reduce</label>
+                <description>Hadoop</description>
+            </proficiency>
+            <proficiency id="Sharepoint">
+                <label>Microsoft Sharepoint</label>
+                <description>Microsoft Sharepoint</description>
+            </proficiency>
+            <proficiency id="Java">
+                <label>Java</label>
+                <description>Java</description>
+            </proficiency>
+            <proficiency id="CSharp">
+                <label>C#</label>
+                <description>C#</description>
+            </proficiency>
+            <proficiency id="VBNET">
+                <label>VB.NET</label>
+                <description>VB.NET</description>
+            </proficiency>
+            <proficiency id="PHP">
+                <label>PHP</label>
+                <description>PHP</description>
+            </proficiency>
+            <proficiency id="CPP">
+                <label>C++</label>
+                <description>C++</description>
+            </proficiency>
+            <proficiency id="Perl">
+                <label>Perl</label>
+                <description>Perl</description>
+            </proficiency>
+            <proficiency id="Python">
+                <label>Python</label>
+                <description>Python</description>
+            </proficiency>
+            <proficiency id="Haskell">
+                <label>Haskell</label>
+                <description>Haskell</description>
+            </proficiency>
+        </proficiencySet>
+        <proficiencySet id="XML_Standards">
+            <label>XML Industry Standards</label>
+            <proficiency id="Standards_Process">
+                <label>Standards Process</label>
+                <description>Standards Process</description>
+            </proficiency>
+            <proficiency id="NIEM">
+                <label>National Information Exchange Model (NIEM)</label>
+                <description>National Information Exchange Model (NIEM)</description>
+            </proficiency>
+            <proficiency id="XBRL">
+                <label>Extensible Businesss Reporting Language (XBRL)</label>
+                <description>Extensible Businesss Reporting Language (XBRL)</description>
+            </proficiency>
+            <proficiency id="HL7">
+                <label>Health Level 7 (HL7)</label>
+                <description>Health Level 7 (HL7)</description>
+            </proficiency>
+            <proficiency id="SPL">
+                <label>Structured Product Labeling (SPL)</label>
+                <description>Structured Product Labeling (SPL)</description>
+            </proficiency>
+            <proficiency id="DocBook">
+                <label>DocBook</label>
+                <description>DocBook</description>
+            </proficiency>
+            <proficiency id="DITA">
+                <label>DITA</label>
+                <description>DITA</description>
+            </proficiency>
+            <proficiency id="ePub3">
+                <label>ePub3</label>
+                <description>ePub3</description>
+            </proficiency>
+            <proficiency id="NLM">
+                <label>National Library of Medicine (NLM) Journal Standards</label>
+                <description>National Library of Medicine (NLM) Journal Standards</description>
+            </proficiency>
+            <proficiency id="MARC">
+                <label>Library of Congress MARC</label>
+                <description>Library of Congress MARC</description>
+            </proficiency>
+            <proficiency id="MODS_PREMIS">
+                <label>Government Printing Office MODS and PREMIS</label>
+                <description>Government Printing Office MODS and PREMIS</description>
+            </proficiency>
+        </proficiencySet>
+    </proficiencySets>
+    <projectSet>
+        <project id="project1">
+            <client>Medicare Health Insurance Exchange Data Services Hub</client>
+            <role>Data Architect</role>
+            <agency>Avalon Consulting, LLC</agency>
+            <description>&lt;p&gt;Mr. Cagle defined both designed and implemented the data
+                architecture layer for the &lt;i&gt;Obamacare Data Services Hub&lt;/i&gt;, which
+                handled data interchange between the federal and state exchanges and the various
+                authorizing entities, including the IRS, Dept. of Homeland Security, Medicare and
+                the Social Security Administration. This system used a Java Enterprise Services Bus
+                and &lt;a href="http://www.marklogic.com" target="new"&gt;MarkLogic 6 Application
+                Server&lt;/a&gt; to handle data ingest, data transformations into and out of XML,
+                batch processing, orchestration, long term asynchronous communication, archiving,
+                auditing and reporting for analytics.&lt;/p&gt; &lt;p&gt;Additionally, he was
+                instrumental in establishing data standards and data modeling within the
+                organization, building towards an eventual NIEM-based domain for the Dept. of Health
+                and Human Services.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2012-02-01</projectDateStart>
+                <projectDateEnd>2012-10-01</projectDateEnd>
+            </projectInterval>
+            <projectProficiencyRefSet>
+                <projectProficiencyRef>Insurance</projectProficiencyRef>
+                <projectProficiencyRef>Pharmaceutical</projectProficiencyRef>
+                <projectProficiencyRef>Data_Architecture</projectProficiencyRef>
+                <projectProficiencyRef>UML_Data_Modeling</projectProficiencyRef>
+                <projectProficiencyRef>Ontological_Modeling</projectProficiencyRef>
+                <projectProficiencyRef>MarkLogic</projectProficiencyRef>
+                <projectProficiencyRef>XQuery</projectProficiencyRef>
+                <projectProficiencyRef>XSLT</projectProficiencyRef>
+                <projectProficiencyRef>XQuery</projectProficiencyRef>
+                <projectProficiencyRef>XML_Schema</projectProficiencyRef>
+                <projectProficiencyRef>Schematron</projectProficiencyRef>
+                <projectProficiencyRef>Java</projectProficiencyRef>
+                <projectProficiencyRef>Hadoop</projectProficiencyRef>
+                <projectProficiencyRef>NIEM</projectProficiencyRef>
+                <projectProficiencyRef>Government</projectProficiencyRef>
+                <projectProficiencyRef>NoSQL_Data_Systems</projectProficiencyRef>
+                <projectProficiencyRef>JavaScript</projectProficiencyRef>
+                <projectProficiencyRef>NodeJS</projectProficiencyRef>
+                <projectProficiencyRef>DITA</projectProficiencyRef>
+                <projectProficiencyRef>HTML5</projectProficiencyRef>
+            </projectProficiencyRefSet>
+            <projectLocation>
+                <city>Columbia</city>
+                <stateProvince>MA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project2">
+            <client>Reed Technical Information Services (RTIS)</client>
+            <role>Information Architect</role>
+            <agency>Avalon Consulting, LLC</agency>
+            <description> &lt;p&gt; Mr. Cagle designed and created a MarkLogic Server based
+                enterprise management system and ontology manager for a services portal managing
+                Standardized Product Labelling (SPL) documents, forms and components, along with a
+                formal services system for delivering and integrating these with a Microsoft
+                SharePoint front end developed by a third party vendor. In addition to the
+                development, of the portal, he also designed and refined the metadata schemas
+                utilized by the system in order to support complex versioning, workflow management,
+                extensive search capabilities and deployment of a custom unit testing
+                framework.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2011-09-01</projectDateStart>
+                <projectDateEnd>2012-04-01</projectDateEnd>
+            </projectInterval>
+            <projectProficiencyRefSet>
+                <projectProficiencyRef>Pharmaceutical</projectProficiencyRef>
+                <projectProficiencyRef>Publishing</projectProficiencyRef>
+                <projectProficiencyRef>Government</projectProficiencyRef>
+                <projectProficiencyRef>Data_Architecture</projectProficiencyRef>
+                <projectProficiencyRef>UML_Data_Modeling</projectProficiencyRef>
+                <projectProficiencyRef>Ontological_Modeling</projectProficiencyRef>
+                <projectProficiencyRef>MarkLogic</projectProficiencyRef>
+                <projectProficiencyRef>OWL_RDF</projectProficiencyRef>
+                <projectProficiencyRef>XQuery</projectProficiencyRef>
+                <projectProficiencyRef>XSLT</projectProficiencyRef>
+                <projectProficiencyRef>XForms</projectProficiencyRef>
+                <projectProficiencyRef>XML_Schema</projectProficiencyRef>
+                <projectProficiencyRef>Schematron</projectProficiencyRef>
+                <projectProficiencyRef>Sharepoint</projectProficiencyRef>
+                <projectProficiencyRef>CPP</projectProficiencyRef>
+                <projectProficiencyRef>SPL</projectProficiencyRef>
+                <projectProficiencyRef>JavaScript</projectProficiencyRef>
+                <projectProficiencyRef>HTML5</projectProficiencyRef>
+            </projectProficiencyRefSet>
+            <projectLocation>
+                <city>Philadelphia</city>
+                <stateProvince>PA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project3">
+            <client>Church of Latter Day Saints (LDS)</client>
+            <role>Information Architect</role>
+            <agency>Avalon Consulting, LLC</agency>
+            <description> &lt;p&gt;The LDS Church is developing a Gold Catalog application to serve
+                as a central content repository for information published through multiple content
+                management systems. The published content is delivered to multiple platforms
+                including print, web and mobile. LDS plans to build their Gold Catalog solution on a
+                MarkLogic Server.&lt;/p&gt; &lt;p&gt;Mr. Cagle was the Information Architect on the
+                project. He helped design a schema that can support the wide range of information
+                for the different publishing systems and mediums, and proposed architecture for
+                utilizing semantics for IP asset management.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2011-06-01</projectDateStart>
+                <projectDateEnd>2011-09-01</projectDateEnd>
+            </projectInterval>
+            <projectProficiencyRefSet>
+                <projectProficiencyRef>Publishing</projectProficiencyRef>
+                <projectProficiencyRef>Data_Architecture</projectProficiencyRef>
+                <projectProficiencyRef>Ontological_Modeling</projectProficiencyRef>
+                <projectProficiencyRef>MarkLogic</projectProficiencyRef>
+                <projectProficiencyRef>OWL_RDF</projectProficiencyRef>
+                <projectProficiencyRef>XQuery</projectProficiencyRef>
+                <projectProficiencyRef>XSLT</projectProficiencyRef>
+                <projectProficiencyRef>XQuery</projectProficiencyRef>
+                <projectProficiencyRef>XForms</projectProficiencyRef>
+                <projectProficiencyRef>XML_Schema</projectProficiencyRef>
+                <projectProficiencyRef>Schematron</projectProficiencyRef>
+                <projectProficiencyRef>Entity_Extraction</projectProficiencyRef>
+                <projectProficiencyRef>Sharepoint</projectProficiencyRef>
+                <projectProficiencyRef>Java</projectProficiencyRef>
+                <projectProficiencyRef>JavaScript</projectProficiencyRef>
+                <projectProficiencyRef>HTML5</projectProficiencyRef>
+            </projectProficiencyRefSet>
+            <projectLocation>
+                <city>Salt Lake City</city>
+                <stateProvince>UT</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+
+        </project>
+        <project id="project4">
+            <client>Library of Congress</client>
+            <role>Senior Consultant</role>
+            <description> &lt;p&gt;The Library of Congress needed to find better ways to generate
+                and manage metadata for their Legislative Content. The Library contracted with
+                Avalon Consulting, LLC to lead a research project showing how text analytics, batch
+                metadata management and distant metadata could be used to improve the management and
+                findability of their content. Mr. Cagle showed the library the power of open source
+                text analytics tools, like GATE and LingPipe. Kurt used these tools to extract
+                witnesses from hearings and to automatically identify bill introductions from the
+                Congressional Record. In addition to his work with text analytic tools, Mr. Cagle
+                showed the library how MarkLogic and XML schemas could be used to manage semantic
+                web data.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2011-03-01</projectDateStart>
+                <projectDateEnd>2011-07-01</projectDateEnd>
+            </projectInterval>
+            <projectProficiencyRefSet>
+                <projectProficiencyRef>Archival_Systems</projectProficiencyRef>
+                <projectProficiencyRef>Government</projectProficiencyRef>
+                <projectProficiencyRef>Data_Architecture</projectProficiencyRef>
+                <projectProficiencyRef>Ontological_Modeling</projectProficiencyRef>
+                <projectProficiencyRef>Entity_Extraction</projectProficiencyRef>
+                <projectProficiencyRef>MarkLogic</projectProficiencyRef>
+                <projectProficiencyRef>OWL_RDF</projectProficiencyRef>
+                <projectProficiencyRef>XQuery</projectProficiencyRef>
+                <projectProficiencyRef>XSLT</projectProficiencyRef>
+                <projectProficiencyRef>XForms</projectProficiencyRef>
+                <projectProficiencyRef>XML_Schema</projectProficiencyRef>
+                <projectProficiencyRef>Schematron</projectProficiencyRef>
+                <projectProficiencyRef>MODS_PREMIS</projectProficiencyRef>
+                <projectProficiencyRef>JavaScript</projectProficiencyRef>
+                <projectProficiencyRef>HTML5</projectProficiencyRef>
+            </projectProficiencyRefSet>
+            <projectLocation>
+                <city>Washington</city>
+                <stateProvince>District of Columbia</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project5">
+            <client>World Wide Web Consortium (W3C)</client>
+            <role>Invited Expert</role>
+            <description> &lt;p&gt;Mr. Cagle was invited to participate as an unaffiliated expert
+                within the Web Forms Working Group. In his role, Kurt made proposed modifications to
+                the XForms 1.2 and 2.0 specifications. He also provided feedback from vendors,
+                developers and users of XML technology towards creating new standards and resolving
+                inconsistencies in existing ones. Mr. Cagle worked with the XForms group to build a
+                forms language that can be readily incorporated into HTML. He promoted XForms and
+                XRX (RESTful Services) based solutions globally.&lt;/p&gt; &lt;p&gt;In previous
+                years, Mr. Cagle worked as a committee member with the Scalable Vector Graphics
+                Working Group, with a focus on scripting languages and bindings within
+                SVG.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2005-06-01</projectDateStart>
+            </projectInterval>
+            <projectProficiencyRefSet>
+                <projectProficiencyRef>Archival_Systems</projectProficiencyRef>
+                <projectProficiencyRef>Government</projectProficiencyRef>
+                <projectProficiencyRef>Data_Architecture</projectProficiencyRef>
+                <projectProficiencyRef>Ontological_Modeling</projectProficiencyRef>
+                <projectProficiencyRef>Entity_Extraction</projectProficiencyRef>
+                <projectProficiencyRef>MarkLogic</projectProficiencyRef>
+                <projectProficiencyRef>OWL_RDF</projectProficiencyRef>
+                <projectProficiencyRef>XQuery</projectProficiencyRef>
+                <projectProficiencyRef>XSLT</projectProficiencyRef>
+                <projectProficiencyRef>XForms</projectProficiencyRef>
+                <projectProficiencyRef>XML_Schema</projectProficiencyRef>
+                <projectProficiencyRef>Schematron</projectProficiencyRef>
+                <projectProficiencyRef>MODS_PREMIS</projectProficiencyRef>
+                <projectProficiencyRef>JavaScript</projectProficiencyRef>
+                <projectProficiencyRef>HTML5</projectProficiencyRef>
+            </projectProficiencyRefSet>
+            <projectLocation>
+                <city>Boston</city>
+                <stateProvince>Massachusetts</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project6">
+            <client>U.S. National Archives</client>
+            <role>Data Architect</role>
+            <agency>Lockheed Martin Corporation</agency>
+            <description> &lt;p&gt;Mr. Cagle designed and developed the XML schemas, data models and
+                ontologies used by the US National Archives (NARA) ERA (Electronic Record Archives)
+                project. In his role as XML Data Architect, he worked closely with NARA personnel to
+                establish the base and preservation schemas for use within the ERA project. Mr.
+                Cagle developed and promoted XML-centric architectures for the best utilization of
+                the specification and built extensive Java, XQuery and XSLT transformations within
+                MarkLogic and eXist XML databases in order to create application logic, reports, and
+                administration scripts.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2010-01-01</projectDateStart>
+                <projectDateEnd>2011-01-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>College Park</city>
+                <stateProvince>MA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project7">
+            <client>O’Reilly Media</client>
+            <role>Online Editor</role>
+            <description> &lt;p&gt;Mr. Cagle worked in an editorial role for a number of O’Reilly
+                properties. Kurt was an on-line editor for O’Reilly Broadcast where he helped
+                produce articles, webcasts and podcasts on a range of topics including: cloud
+                computing, distributed computing, software as a service and economic issues related
+                to computing and the technology space. Mr. Cagle served as a managing editor for the
+                XML.com website. In this role he was responsible for recruiting and coordinating
+                industry leading writers and bloggers, developing editorial schedules and calendars,
+                assigning and approving articles and editorial content and interviewing thought
+                leaders in the XML space. Kurt has been writing and blogging for O'Reilly on XML,
+                RIA, SOA, and Web Standards related content since 2003. Mr. Cagle also developed
+                proposals for an educational curriculum for presenting the US National Information
+                Exchange Model (NIEM) standard. &lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2003-06-01</projectDateStart>
+                <projectDateEnd>2010-10-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Sebastapol</city>
+                <stateProvince>CA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project8">
+            <client>Burton Group</client>
+            <role>Research Analyst</role>
+            <description> &lt;p&gt;Mr. Cagle served as a Research Analyst in the XML Technologies
+                for the Data Management Strategies Group. In this role Kurt provided industry and
+                technology analysis and consulting services through his quarterly reports, blog
+                posts and industry presentations.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2009-09-01</projectDateStart>
+                <projectDateEnd>2010-02-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Salt Lake City</city>
+                <stateProvince>UT</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project9">
+            <client>CASRAI</client>
+            <role>Standards Architect</role>
+            <description> &lt;p&gt;Mr. Cagle developed XML Standards and Style Guides for this
+                Canadian research industry consortium. Job responsibilities including developing
+                data models and schemas based on HL7, the development of an enterprise content
+                management system and the creation of forms modules for the ECMS, using the
+                MarkLogic and eXist XML Database systems and XQuery.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2006-11-01</projectDateStart>
+                <projectDateEnd>2009-09-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Victoria</city>
+                <stateProvince>BC</stateProvince>
+                <country>CAN</country>
+            </projectLocation>
+        </project>
+        <project id="project10">
+            <client>American Online</client>
+            <role>Systems Architect</role>
+            <agency>Mercurial</agency>
+            <description> &lt;p&gt;Mr. Cagle acted as senior architect for the AOL/Netscape 8.1
+                Browser, based upon the Mozilla Firefox Core Engine. Responsibilities included
+                design of core XUL APIs, services architecture, interface design and
+                extensions.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2005-03-01</projectDateStart>
+                <projectDateEnd>2006-11-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Victoria</city>
+                <stateProvince>BC</stateProvince>
+                <country>CAN</country>
+            </projectLocation>
+        </project>
+        <project id="project11">
+            <client>Hasbro / Wizards of the Coast</client>
+            <role>Consulting Developer</role>
+            <agency>APEX</agency>
+            <description> &lt;p&gt;Mr. Cagle developed a .NET based content management systems and
+                specialized web editor for the Firefox browser for the online department of the
+                world's largest game company.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2004-01-01</projectDateStart>
+                <projectDateEnd>2005-01-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Renton</city>
+                <stateProvince>WA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project12">
+            <client>Onyx</client>
+            <role>Consultant</role>
+            <agency>APEX</agency>
+            <description>&lt;p&gt;Designed and built an SVG based Customer Relations Management
+                (CRM) deployment tool for use within Internet Explorer, using Java and JavaScript.
+                Work focused on integrating system with back end database system.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2003-09-01</projectDateStart>
+                <projectDateEnd>2004-01-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Bellevue</city>
+                <stateProvince>WA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project13">
+            <client>Seatle Book Company</client>
+            <role>Architect</role>
+            <description> &lt;p&gt;Mr. Cagle architected a solution and managed a team to implement
+                a Java/XSLT conversion service for building ePub format, Adobe PDFs, MS Lit Reader,
+                Palm Reader, and Mobi Pocket formats from Microsoft Word, Open Office and DocBook
+                formatted documents.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>2002-04-01</projectDateStart>
+                <projectDateEnd>2003-12-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Seattle</city>
+                <stateProvince>WA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project14">
+            <client>Microsoft</client>
+            <role>Developer</role>
+            <agency>Systems IQ</agency>
+            <description> &lt;p&gt;Mr. Cagle developed and implemented Visual C++ and Visual Basic
+                XML-targeted components for integration with Internet Explorer as part of the
+                Microsoft Business Server product set. Additionally, he developed XSLT components as
+                part of what would become BizTalk Server.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>1998-03-01</projectDateStart>
+                <projectDateEnd>2001-12-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Redmond</city>
+                <stateProvince>WA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project15">
+            <client>Macromedia</client>
+            <role>Editor</role>
+            <agency>Pyramid Publishing</agency>
+            <description> &lt;p&gt;Published and managed two technical newsletters for Macromedia
+                (now Adobe), including the Macromedia User's Journal.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>1996-01-01</projectDateStart>
+                <projectDateEnd>1998-03-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Kent</city>
+                <stateProvince>WA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project16">
+            <client>Future Publishing</client>
+            <role>Multimedia Editor</role>
+            <description> &lt;p&gt;Developed multimedia CDs and web content for game and industry
+                review magazines using Macromedia Director/Flash, Visual Basic and related
+                tools.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>1995-03-01</projectDateStart>
+                <projectDateEnd>1996-01-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>San Francisco</city>
+                <stateProvince>CA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project17">
+            <client>Microsoft</client>
+            <role>Multimedia Developer</role>
+            <agency>Center for Multimedia</agency>
+            <description> &lt;p&gt;Developed multiple media presentations, games, and application
+                for Microsoft, using Visual Basic, C++, HTML and Macromedia Director, including
+                content for the new MSN network and the vendor marketing piece for Real Networks,
+                among numerous other clients.&lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>1993-04-01</projectDateStart>
+                <projectDateEnd>1995-03-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Redmond</city>
+                <stateProvince>WA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+        <project id="project18">
+            <client>Manley and Associates</client>
+            <role>Multimedia Developer</role>
+            <description> &lt;p&gt;Developed multimedia based CD games for numerous clients,
+                including Disney, EA Games, Fisher Price, and others, with titles including
+                Jeopardy, Wheel of Fortune, The Lion King, Professor Piccolo, The Oregon Trail, and
+                many others. &lt;/p&gt; </description>
+            <projectInterval>
+                <projectDateStart>1991-01-01</projectDateStart>
+                <projectDateEnd>1993-02-01</projectDateEnd>
+            </projectInterval>
+            <projectLocation>
+                <city>Issaquah</city>
+                <stateProvince>WA</stateProvince>
+                <country>USA</country>
+            </projectLocation>
+        </project>
+    </projectSet>
+    <books>
+        <book id="bk1">
+            <title>HTML5 Graphics with SVG and CSS</title>
+            <publisher>O'Reilly Media</publisher>
+            <publicationYear>2013</publicationYear>
+        </book>
+        <book id="bk2">
+            <title>Real World AJAX, Secrets of the Masters</title>
+            <publisher>SysCon Media</publisher>
+            <publicationYear>2008</publicationYear>
+        </book>
+        <book id="bk3">
+            <title>XQuery Kick-Start</title>
+            <publisher>Wrox Publishing</publisher>
+            <publicationYear>2005</publicationYear>
+        </book>
+        <book id="bk4">
+            <title>Early Adopter XQuery</title>
+            <publisher>Wrox Publishing</publisher>
+            <publicationYear>2004</publicationYear>
+        </book>
+        <book id="bk5">
+            <title>SVG Programming, The Graphical Web</title>
+            <publisher>Apress Publishing</publisher>
+            <publicationYear>2004</publicationYear>
+        </book>
+        <book id="bk6">
+            <title>Professional XML Schemas</title>
+            <publisher>Wrox Publishing</publisher>
+            <publicationYear>2003</publicationYear>
+        </book>
+        <book id="bk7">
+            <title>Professional XSL</title>
+            <publisher>Wrox Publishing</publisher>
+            <publicationYear>2003</publicationYear>
+        </book>
+        <book id="bk8">
+            <title>Beginning XML, First Edition</title>
+            <publisher>Wrox Publishing</publisher>
+            <publicationYear>2002</publicationYear>
+        </book>
+        <book id="bk9">
+            <title>XML Developer's Handbook</title>
+            <publisher>Sybex Publishing</publisher>
+            <publicationYear>1999</publicationYear>
+        </book>
+        <book id="bk10">
+            <title>Visual Basic 6 Client/Server Programming</title>
+            <publisher>Coriolis Books</publisher>
+            <publicationYear>1998</publicationYear>
+        </book>
+    </books>
+</resume>
